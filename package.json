@@ -1,7 +1,7 @@
 {
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Personal portfolio web application template for JavaScript developers using GitHub Codespaces.",
   "source": "src/index.html",
   "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
   "scripts": {

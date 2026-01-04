@@ -29,7 +29,7 @@ const description = "I am a graduate student in petroleum exploration and produc
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = ["C++ Programming     ", "Qt Framework     ", "MatLab Scripting     "];
+const skillsList = ["C++ Programming", "Qt Framework", "MatLab Scripting"];
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -58,7 +58,7 @@ const About = () => {
         <ul
           style={{
             textAlign: "left",
-            columns: 2,
+            columns: 1,
             fontSize: "1.25rem",
             margin: "2rem 3rem",
             gap: "3rem",
